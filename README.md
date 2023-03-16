@@ -1,5 +1,5 @@
 # Software-Systems-Analysis-and-Design
-This repository for Software Systems Analysis and Designg course which include labs and exams from Innopolis university bachelor degree second year Fall semester 2022
+This repository for Software Systems Analysis and Designg course which include labs and exams from Innopolis university bachelor degree second year Fall semester 2021
 
 Course outline:
 
